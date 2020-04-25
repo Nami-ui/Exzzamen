@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Car;
 
 
 namespace Auto
@@ -11,7 +12,7 @@ namespace Auto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            
         }
     }
 }
