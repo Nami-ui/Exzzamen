@@ -1,0 +1,7 @@
+C:\Users\dnsuser\source\repos\Auto\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+C:\Users\dnsuser\source\repos\Auto\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Users\dnsuser\source\repos\Auto\Auto\bin\Debug\Auto.exe.config
+C:\Users\dnsuser\source\repos\Auto\Auto\bin\Debug\Auto.exe
+C:\Users\dnsuser\source\repos\Auto\Auto\bin\Debug\Auto.pdb
+C:\Users\dnsuser\source\repos\Auto\Auto\obj\Debug\Auto.exe
+C:\Users\dnsuser\source\repos\Auto\Auto\obj\Debug\Auto.pdb
